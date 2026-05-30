@@ -1,0 +1,22 @@
+DEFiFun/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+│
+├── components/
+│   ├── Navbar.tsx
+│   ├── Hero.tsx
+│   ├── Features.tsx
+│   └── Stats.tsx
+│
+├── public/
+│   └── logo.png
+│
+├── package.json
+├── next.config.js
+├── postcss.config.js
+├── tailwind.config.ts
+├── tsconfig.json
+├── .gitignore
+└── README.m
