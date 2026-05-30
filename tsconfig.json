@@ -1,18 +1,16 @@
 {
-  "compilerOptions": {
-    "target": "ES2017",
-    "lib": ["dom", "dom.iterable", "esnext"],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "strict": false,
-    "noEmit": true,
-    "incremental": true,
-    "module": "esnext",
-    "esModuleInterop": true,
-    "moduleResolution": "bundler",
-    "resolveJsonModule": true,
-    "jsx": "preserve"
+  "name": "defifun",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "include": ["next-env.d.ts", "*/.ts", "*/.tsx"],
-  "exclude": ["node_modules"]
+  "dependencies": {
+    "next": "14.2.30",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
 }
