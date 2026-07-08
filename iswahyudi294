@@ -1,0 +1,105 @@
+# 🚀 DeFiFun
+
+DeFiFun is a modern decentralized finance (DeFi) platform designed for secure crypto asset management, token trading, staking, and portfolio tracking.
+
+## 🌟 Overview
+
+DeFiFun provides users with a seamless Web3 experience by integrating secure wallet connections, decentralized trading, and real-time portfolio monitoring.
+
+## ✨ Features
+
+- 🔐 Secure Wallet Connection
+- 💰 Crypto Asset Management
+- 🔄 Token Trading Interface
+- 📈 Portfolio Performance Tracking
+- 🌐 Blockchain Integration
+- ⚡ Fast and Responsive UI
+- 🛡️ Smart Contract Support
+
+## 🛠️ Tech Stack
+
+- Next.js 14
+- React
+- Tailwind CSS
+- TypeScript
+- Ethers.js
+- Solidity
+- Vercel
+
+## 📂 Project Structure
+
+text
+DeFiFun/
+├── app/
+├── components/
+├── public/
+├── styles/
+├── package.json
+├── next.config.js
+└── README.md
+
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+bash
+git clone https://github.com/iswahyudiirfandi/DEFiFun.git
+
+
+### Install Dependencies
+
+bash
+npm install
+
+
+### Run Development Server
+
+bash
+npm run dev
+
+
+Open:
+
+text
+http://localhost:3000
+
+
+## 📦 Build for Production
+
+bash
+npm run build
+npm start
+
+
+## 🌐 Deployment
+
+Deploy instantly with:
+
+- Vercel
+- Netlify
+- AWS Amplify
+
+Recommended:
+
+- https://vercel.com
+
+## 🔮 Future Roadmap
+
+- MetaMask Integration
+- Staking Dashboard
+- Liquidity Pools
+- Yield Farming
+- NFT Support
+- Multi-Chain Compatibility
+- Real-Time Analytics
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+Wahyu Irfandi
+
+GitHub: https://github.com/iswahyudiirfandi
